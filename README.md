@@ -9,11 +9,13 @@ MemeBot is a simple Python Discord bot that listens for the command $meme and re
 
 - <b>Python 3.10+</b> 
 - <b>discord.py</b>
+- <b>requests</b>
+- <b>python-dotenv</b> (loads tokens from <code>.env</code>)
 - <b>Meme API</b>
 
 <h2>Environments Used </h2>
 
-- <b>macOS</b> (21H2)
+- <b>macOS</b>
 
 <h2>Program walk-through:</h2>
 
